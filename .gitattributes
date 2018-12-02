@@ -1,0 +1,6 @@
+*.svg           binary
+*.kicad_pcb     binary
+*.pro           binary
+*.sch           binary
+
+
